@@ -5,7 +5,7 @@ Total screens 28+ Clean code . Universal theme (Most important for customization
  https://youtu.be/1CbipytKGRI
  
  Below are some visuals of APP LAYOUT 
-<img src=" https://i.ibb.co/5cTL2fQ/Whats-App-Image-2023-06-04-at-11-45-38-PM-2.jpg" alt="Alt text" title="Optional title">
+<img src="https://i.ibb.co/5cTL2fQ/Whats-App-Image-2023-06-04-at-11-45-38-PM-2.jpg" alt="Alt text" title="Optional title">
 
  
  
