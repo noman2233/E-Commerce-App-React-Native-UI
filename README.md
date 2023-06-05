@@ -5,11 +5,11 @@ Total screens 28+ Clean code . Universal theme (Most important for customization
  https://youtu.be/1CbipytKGRI
  
  Below are some visuals of APP LAYOUT 
+        <img src="https://i.ibb.co/hy5QsLs/Whats-App-Image-2023-06-04-at-11-45-39-PM-3.jpg" alt="image" width="180"height="420" style="object-fit: cover" />
  
   
  
     <div class="noman" style="display: flex;align-items: center;justify-content: center;flex-wrap: wrap;gap: 20px;">
-        <img src="https://i.ibb.co/hy5QsLs/Whats-App-Image-2023-06-04-at-11-45-39-PM-3.jpg" alt="image" width="180"height="420" style="object-fit: cover" />
         <img src="https://i.ibb.co/hy5QsLs/Whats-App-Image-2023-06-04-at-11-45-39-PM-3.jpg" alt="image" width="180"height="420" style="object-fit: cover" />
         <img src="https://i.ibb.co/hMjSb31/Whats-App-Image-2023-06-04-at-11-45-39-PM-1.jpg" alt="image" width="180"height="420" style="object-fit: cover" />
         <img src="https://i.ibb.co/gddGCKC/Whats-App-Image-2023-06-04-at-11-45-40-PM-1.jpg" alt="image" width="180"height="420" style="object-fit: cover" />
